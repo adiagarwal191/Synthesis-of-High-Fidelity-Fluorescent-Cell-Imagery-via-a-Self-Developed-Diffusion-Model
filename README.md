@@ -1,4 +1,4 @@
-# Generation of High-Fidelity Fluorescent Cell Images via a Self-Developed Diffusion Model
+# Synthesis of High-Fidelity Fluorescent Cell Images via a Self-Developed Diffusion Model
 
 This repository contains the code and documentation for my final year project at the University of Birmingham, where I developed and trained a custom Denoising Diffusion Probabilistic Model (DDPM) to generate high-quality synthetic images of fluorescently dyed cells.
 
